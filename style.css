@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: gray;
+    color: aquamarine;
+    font-family: 'Nuosu SIL', serif;
+}
+.title{
+    font-size: 4rem;
+    color: aquamarine;
+}
+.refresh{
+    background: none;
+    padding: 20px;
+    border-radius: 40%;
+    color: aquamarine;
+    border: solid aquamarine;
+}
+.player1,.player2{
+    display: inline-block;
+    margin: 30px;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-size: 1.7rem;
+}
